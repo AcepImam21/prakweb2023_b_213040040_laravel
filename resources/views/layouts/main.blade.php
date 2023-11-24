@@ -14,6 +14,7 @@
     {{-- My Style --}}
     <link rel="stylesheet" href="/css/style.css">
 
+
     <title>Imam' Blog | {{ $title }}</title>
   </head>
   <body>
